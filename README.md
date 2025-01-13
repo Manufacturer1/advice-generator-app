@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [URL to github repo](httphttps://github.com/Manufacturer1/advice-generator-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Website url](https://advice-generator-d9fp9506y-manufacturer1s-projects.vercel.app/)
 
 ## My process
 
@@ -48,6 +48,4 @@ It was a really interesting project for me!
 I'm really proud that I could add a loading spinner as an aditional task to the challenge.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Github - [Manufacturer1](https://github.com/Manufacturer1/advice-generator-app)
